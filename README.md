@@ -4,7 +4,7 @@ Data Analyst | Insight Seeker | Problem Solver
 
 I enjoy turning messy data into clean, useful insights! I’m currently upskilling my technical toolkit and sharing my journey through data projects.
 
-📊 Featured Project: [Sales Performance Analytics Dashboard[(https://github.com/heyaaashi/Sales-Performance-Analytics-Dashboard)
+📊 Featured Project: [Sales Performance Analytics Dashboard](https://github.com/heyaaashi/Sales-Performance-Analytics-Dashboard)
 - I developed an interactive Power BI dashboard to analyze $2.26M in sales data, providing a high-level overview of business health and regional growth trends.
 - Impact: Identified high-value product drivers and analyzed 4-year seasonal trends.
 - Tech Stack: Power BI, DAX, Power Query.
